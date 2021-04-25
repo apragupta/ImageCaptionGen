@@ -25,7 +25,7 @@ def load_meta_data_from_dir(dir_name, file_name ='meta_data'):
 #load a few sample images with captions
 def display_samples(meta_df, num_samples=5, seed = 0):
     #sample num_sample rows from the dataframe
-    samples = meta_df.sample(n=num_samples,random_state = 0)
+    samples = meta_df.sample(n=num_samples,random_state = seed)
     for idx,row in samples.iterrows():
         file_name = row['image_path']
         caption = row['caption']
