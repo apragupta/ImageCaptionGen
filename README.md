@@ -1,2 +1,3 @@
-# ML1_Final_Proj
- Final Project for DS 4400
+# ImageCaptionGen
+ Sentiment Based Image Captioning Model using Google's Conceptual Captions dataset. Includes data extraction and pre-processing pipeline along with attention based sequence to sequence model
+ 
