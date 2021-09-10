@@ -1,4 +1,4 @@
 # ImageCaptionGen
- Sentiment Based Image Captioning Model using Google's Conceptual Captions dataset. Includes data extraction and pre-processing pipeline along with attention based sequence to sequence model
+ Sentiment Based Image Captioning Model using Google's Conceptual Captions dataset. Includes data extraction and pre-processing pipeline along with attention based sequence to sequence modelCancel changes
  
-See here for paper.
+See [here](Final_Project_Gupta_Zheng.pdf) for final paper.
